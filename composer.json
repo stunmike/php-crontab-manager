@@ -1,0 +1,13 @@
+{
+    "name": "mediovski-technology/php-crontab-manager",
+    "authors": [
+        {
+            "name": "Krzysztof Suszyńsk",
+            "email": "k.suszynski@mediovski.pl"
+        }
+    ],
+    "require": {},
+    "autoload": {
+        "classmap": ["src/"]
+    }
+}
